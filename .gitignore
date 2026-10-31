@@ -1,0 +1,12 @@
+# Your settings (may hold your Telegram bot token), log and history — never commit
+system_monitor.ini
+system_monitor.log
+system_monitor_history.csv
+system_monitor_cooldown.json
+
+# Build
+system_monitor.ico
+__pycache__/
+build/
+dist/
+*.spec
